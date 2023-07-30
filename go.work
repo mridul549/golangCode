@@ -24,4 +24,5 @@ use (
 	./22Modules
 	./23Apis
 	./24Mongo
+	./25GoRoutines
 )
