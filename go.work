@@ -1,0 +1,27 @@
+go 1.20
+
+use (
+	./01hello
+	./02Variables
+	./03Input
+	./04Conversions
+	./05Time
+	./06Pointers
+	./07Arrays
+	./08Slices
+	./09Maps
+	./10Structs
+	./11IfElse
+	./12Switch
+	./13Loops
+	./15Methods
+	./16Defer
+	./17Files
+	./18WebReqs
+	./19Urls
+	./20WebServe
+	./21Json
+	./22Modules
+	./23Apis
+	./24Mongo
+)
